@@ -6,7 +6,6 @@ This repository contains a minimal operating system kernel written in Rust. It i
 
 - A minimal kernel written in Rust
 - Boots on real hardware and in virtual machines
-- Basic memory management
 - Support for printing to the screen using VGA text mode
 - A focus on teaching low-level programming concepts in Rust
 - memory allocation, fixed size, linked list etc.
